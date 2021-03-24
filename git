@@ -1,0 +1,49 @@
+[33mcommit 4ac0532104fe1f9b29269936e9b9e1bae18f55e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 14:01:59 2021 -0400
+
+    just changed the content of fifth file
+
+[33mcommit 4b3c5e0c0725b200fa7a6365ade20cfc4e14109e[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 13:59:26 2021 -0400
+
+    added new file named fifth file
+
+[33mcommit 5869381506a8323d709af0bfdf2448b897494c91[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 13:54:56 2021 -0400
+
+    Revert "added two more clubs in first.txt"
+    
+    This reverts commit f8a7655363539e225ac9ddd67db346f2f68ff1a0.
+
+[33mcommit f8a7655363539e225ac9ddd67db346f2f68ff1a0[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 13:36:42 2021 -0400
+
+    added two more clubs in first.txt
+
+[33mcommit d6cb56a87042404b8a6c4536527ef6ce6c363789[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 02:28:29 2021 -0400
+
+    edited the third file
+
+[33mcommit 1a3c0aa0c3108dd500392959b384bcad2a61ed6b[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 02:26:12 2021 -0400
+
+    odified the second file
+
+[33mcommit 8eb2f15de8f4bc4678ebd2ab0ed84025922cd473[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 02:12:35 2021 -0400
+
+    this is a second commit/ added second, third and forth file
+
+[33mcommit 21aac4b2ee0b627e4d6603ad45fdb0e1d89fc5de[m
+Author: kabin hamal <hamalkabin@gmail.com>
+Date:   Wed Mar 24 02:05:58 2021 -0400
+
+    this is our first commit- add first file
