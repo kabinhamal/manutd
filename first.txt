@@ -6,6 +6,7 @@ Number of titles
 Manchester United	20
 Liverpool FC	        19
 Arsenal FC	        13
+chelsea                 4
 
 
 no of champions league titles
