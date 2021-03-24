@@ -5,3 +5,6 @@ epl teams
 3- Chelsea
 4- Arsenal
 5- liverpool
+6-southampton
+7-leicester city
+
