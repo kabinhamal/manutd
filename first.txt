@@ -7,3 +7,10 @@ Manchester United	20
 Liverpool FC	        19
 Arsenal FC	        13
 
+
+no of champions league titles
+
+liverpool         6
+manchester uniter 3
+chelsea           1
+
