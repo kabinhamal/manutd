@@ -1,7 +1,9 @@
 this is a first file
 epl teams 
-1- Manchester utd
-2- Manchester city
-3- Chelsea
-4- Arsenal
-5- liverpool
+
+Number of titles
+
+Manchester United	20
+Liverpool FC	        19
+Arsenal FC	        13
+
