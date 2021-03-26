@@ -13,6 +13,4 @@ no of champions league titles
 
 liverpool         6
 manchester uniter 3
-chelsea           1
-dragonfly
-
+chelsea           
